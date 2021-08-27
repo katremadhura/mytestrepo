@@ -2,7 +2,7 @@
 title: "Meaningful Title"
 author: "Madhura K"
 date: "8/27/2021"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
